@@ -42,7 +42,12 @@
 ## 🔍 Exploratory Data Analysis (Key Findings)
 
 **Performed in Python** using Jupyter Notebook  
-**Full notebook:** `Day 21 and 22 Challenge - Jupyter Notebook.pdf (https://drive.google.com/file/d/17xE0jm1W58s7dIlbAu8HqgR5VzUkp05x/view?usp=drivesdk)`
+**Full notebook:** `Day 21 and 22 Challenge - Jupyter Notebook.pdf`
+
+### 🔗 Related Files
+
+[📓 View Day 21 & 22 EDA Notebook (Google Drive PDF)](https://drive.google.com/file/d/17xE0jm1W58s7dIlbAu8HqgR5VzUkp05x/view?usp=drivesdk)
+
 
 - **Top brands**: Anouk, Biba, and Libas dominate the stock list  
 - **Most common product type**: Straight Kurta  
