@@ -42,7 +42,7 @@
 ## 🔍 Exploratory Data Analysis (Key Findings)
 
 **Performed in Python** using Jupyter Notebook  
-**Full notebook:** `Day 21 and 22 Challenge - Jupyter Notebook.pdf`
+**Full notebook:** `Day 21 and 22 Challenge - Jupyter Notebook.pdf (https://drive.google.com/file/d/17xE0jm1W58s7dIlbAu8HqgR5VzUkp05x/view?usp=drivesdk)`
 
 - **Top brands**: Anouk, Biba, and Libas dominate the stock list  
 - **Most common product type**: Straight Kurta  
@@ -61,7 +61,7 @@
 
 ## 📊 Dashboard Summary  
 **Built in Microsoft Excel**  
-Snapshot included: `IMG-20250520-WA0020.jpg`
+![image](https://github.com/user-attachments/assets/db7305b7-2d90-46a8-891c-4518f073c64a)
 
 ### Dashboard Includes:
 
@@ -98,13 +98,6 @@ Cleaning and enriching data (like creating discount percentages and margin segme
 - EDA gives direction: It helps you understand what matters before building a dashboard.  
 - Simple charts tell big stories: Pie charts, bar charts, and KPI cards, when well-labeled, are enough to communicate trends to stakeholders.  
 - Documenting the process forces clarity; it helps you spot gaps and explain your value to others.
-
----
-
-## 🔗 Related Files
-- `Sales Fashion Inventory 1.xlsx` – Raw dataset
-- `Day 21 and 22 Challenge - Jupyter Notebook.pdf` – Python analysis and EDA
-- `IMG-20250520-WA0020.jpg` – Final Excel dashboard snapshot
 
 ---
 
